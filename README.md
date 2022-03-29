@@ -10,7 +10,7 @@
 ## Funcionalidades
 ### Calcular adição.
 ### Calcular subtração.
-### Calcular divisçao.
+### Calcular divição.
 ### Calcular Multiplicação.
 ### Apagar.
 ### Anular.
